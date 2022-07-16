@@ -2,8 +2,6 @@
 
 I am a NLP researcher.
 
-A webpage of my work is here.[UNT](https://linguistics.unt.edu/taraka-kasicheyanula)
-
 ### Education
 
 - PhD in NLP from Gothenburg.
