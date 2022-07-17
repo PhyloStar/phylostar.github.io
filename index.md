@@ -6,7 +6,7 @@ I am a NLP researcher.
 
 - PhD in NLP from Gothenburg.
 
-- My publications are here on [google scholar](https://scholar.google.no/citations?hl=en&user=pdzW3AEAAAAJ)
+<!--- My publications are here on [google scholar](https://scholar.google.no/citations?hl=en&user=pdzW3AEAAAAJ) -->
 
 ### Research focus
 
