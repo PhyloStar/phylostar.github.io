@@ -1,4 +1,4 @@
-## Taraka Rama's webpage
+## Taraka Rama
 
 I apply ML techniques to text data.
 
