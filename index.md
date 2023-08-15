@@ -1,6 +1,6 @@
 ## Taraka Rama's webpage
 
-I am a NLP researcher.
+I apply ML techniques to text data.
 
 ### Education
 
