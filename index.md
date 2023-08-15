@@ -1,4 +1,4 @@
-## Taraka Rama
+### About me
 
 I apply ML techniques to text data.
 
