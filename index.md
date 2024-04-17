@@ -1,14 +1,10 @@
-### Taraka Rama
+### About me
 
 I apply ML techniques to text data.
 
-### Education
-
-- PhD in NLP from Gothenburg.
+### Research
 
 My publications are here on [google scholar](https://scholar.google.no/citations?hl=en&user=pdzW3AEAAAAJ)
-
-### Research focus
 
 Recent publications on Bayesian phylogeography are below:
 
