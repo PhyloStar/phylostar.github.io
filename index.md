@@ -17,4 +17,3 @@ Recent publications on Bayesian phylogeography are below:
 
 A [Telugu dependency treebank](https://github.com/UniversalDependencies/UD_Telugu-MTG) in Universal Dependencies framework.
 
-A [grant](https://github.com/PhyloStar/phylostar.github.io/blob/main/CRII_grant_proposal.pdf) proposal that was accepted before I moved to industry from academia.
