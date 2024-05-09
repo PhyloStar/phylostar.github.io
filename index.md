@@ -8,3 +8,4 @@ Publications are on [google scholar](https://scholar.google.no/citations?hl=en&u
 
 A [Telugu dependency treebank](https://github.com/UniversalDependencies/UD_Telugu-MTG) in Universal Dependencies framework.
 
+PhD thesis [pdf](https://github.com/PhyloStar/phylostar.github.io/blob/main/taraka-phd-thesis-final.pdf)
