@@ -1,2 +1,79 @@
+# ----------------------------
+# Basic Site Settings
+# ----------------------------
+
+title: "Taraka Rama — NLP & Computational Linguistics"
+description: "Publications, research themes, and resources in computational historical linguistics, phylogenetics, and multilingual NLP."
 theme: jekyll-theme-minimal
-title: Taraka's homepage
+
+
+# ----------------------------
+# URL Settings (GitHub Pages)
+# ----------------------------
+# If your site is hosted at:
+# https://phylostar.github.io/
+url: "https://phylostar.github.io"
+baseurl: ""
+
+
+# ----------------------------
+# Author Information (Optional)
+# ----------------------------
+author:
+  name: "Taraka Rama"
+  affiliation: "University of Bergen"
+  email: ""
+  github: "PhyloStar"
+  scholar: "https://scholar.google.no/citations?hl=en&user=pdzW3AEAAAAJ"
+  acl: "https://aclanthology.org/people/taraka-rama/"
+
+
+# ----------------------------
+# Social Links (Shown in sidebar)
+# ----------------------------
+social_links:
+  github: "https://github.com/PhyloStar"
+  google_scholar: "https://scholar.google.no/citations?hl=en&user=pdzW3AEAAAAJ"
+  acl_anthology: "https://aclanthology.org/people/taraka-rama/"
+
+
+# ----------------------------
+# Build Settings
+# ----------------------------
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-sitemap      # generates sitemap.xml for SEO
+  - jekyll-seo-tag      # better metadata for Google
+  - jekyll-feed         # RSS feed (optional)
+
+
+# ----------------------------
+# Theme Customization
+# ----------------------------
+logo: "/assets/profile-photo.png"     # optional — add a profile photo
+show_downloads: false
+
+# Add a custom CSS file for sidebar, fonts, or colors
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Optional custom CSS (you create /assets/custom.css)
+include:
+  - assets
+
+
+# ----------------------------
+# Navigation (Optional)
+# ----------------------------
+navigation:
+  - name: "Home"
+    link: "/"
+  - name: "Publications"
+    link: "#selected-publications"
+  - name: "Research"
+    link: "#research-themes"
+  - name: "Impact"
+    link: "#research-impact"
