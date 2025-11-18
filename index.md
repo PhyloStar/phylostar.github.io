@@ -1,4 +1,4 @@
-# Taraka Rama (NLP) — Publications & Research Overview
+# Publications & Research Overview
 
 
 ## Links
