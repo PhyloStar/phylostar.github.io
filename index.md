@@ -5,7 +5,7 @@
 
 - [**ACL Anthology Profile**](https://aclanthology.org/people/taraka-rama/)
 - [**GitHub**](https://github.com/PhyloStar)
-- [**Google Scholar**](https://scholar.google.no/citations?hl=en&user=pdzW3AEAAAAJ)  
+- [**Google Scholar**](https://scholar.google.no/citations?hl=no&user=pdzW3AEAAAAJ)  
 
 ## Research Themes
 
