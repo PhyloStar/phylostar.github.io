@@ -1,11 +1,13 @@
 # Publications & Research Overview
 
+I did my PhD in Graduate School in Language Technology, Sweden. Then, a postdoc with [Gerhard Jaeger](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/chairs/general-linguistics/staff/prof-dr-gerhard-jaeger/) at University of Tuebingen. Then, another postdoc in healthcare at [University of Oslo](https://www.mn.uio.no/ifi/english/research/groups/ltg/) until 2019. Then, I was a faculty for few years at University of North Texas, Denton, TX.
 
 ## Links
 
 - [**ACL Anthology Profile**](https://aclanthology.org/people/taraka-rama/)
 - [**GitHub**](https://github.com/PhyloStar)
-- [**Google Scholar**](https://scholar.google.no/citations?hl=no&user=pdzW3AEAAAAJ)  
+- [**Google Scholar**](https://scholar.google.no/citations?hl=no&user=pdzW3AEAAAAJ)
+- [**DBLP**](https://dblp.org/pid/45/8159.html)
 
 ## Research Themes
 
@@ -28,8 +30,6 @@ Demonstrates that SVMs outperform RNN models on emoji prediction tasks.
 ### **[Are Sounds Sound for Phylogenetic Reconstruction?](https://aclanthology.org/2024.sigtyp-1.11/)**  
 Finds that cognate-based phylogenies outperform sound-based methods for reconstructing language histories.
 
-
-
 ### **[Probing Multilingual BERT for Genetic and Typological Signals](https://aclanthology.org/2020.coling-main.105/)**  
 Shows that mBERT encodes genealogical and typological information; produces language distance matrices and phylogenetic trees.
 
@@ -45,14 +45,11 @@ A threshold-free clustering method for cognate detection across multilingual dat
 ### **[Are Automatic Methods for Cognate Detection Good Enough for Phylogenetic Reconstruction?](https://aclanthology.org/N18-2063/)**  
 Evaluates automatic vs. expert cognate sets for phylogenetic tree building.
 
-
-
 ### **[Experiments with Universal CEFR Classification](https://aclanthology.org/W18-0515/)**  
 Cross-lingual CEFR proficiency classification across learner languages.
 
 ### **[Computational Analysis of Gondi Dialects](https://aclanthology.org/W17-1203/)**  
 Combines dialectometry and neural modeling to analyze dialect variation.
-
 
 ### **[A Telugu Treebank Based on a Grammar Book](https://aclanthology.org/W17-7616/)**  
 Develops a Telugu treebank using grammar-based annotation.
