@@ -1,6 +1,6 @@
 # Publications & Research Overview
 
-I did my PhD in Graduate School in Language Technology, Sweden. Then, a postdoc with [Gerhard Jaeger](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/chairs/general-linguistics/staff/prof-dr-gerhard-jaeger/) at University of Tuebingen. Then, another postdoc in healthcare at [University of Oslo](https://www.mn.uio.no/ifi/english/research/groups/ltg/) until 2019. Then, I was a faculty for few years at University of North Texas, Denton, TX.
+I did my PhD in Graduate School in Language Technology, Sweden. Then, a postdoc with [Gerhard Jaeger](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/chairs/general-linguistics/staff/prof-dr-gerhard-jaeger/) at University of Tuebingen. Then, another postdoc in healthcare at [University of Oslo](https://www.mn.uio.no/ifi/english/research/groups/ltg/) until 2019. Then, I was a faculty for few years at the University of North Texas, Denton, TX. My PhD thesis is [here](https://github.com/PhyloStar/phylostar.github.io/blob/main/taraka_thesis.pdf)
 
 ## Links
 
