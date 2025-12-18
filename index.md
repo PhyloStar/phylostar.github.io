@@ -20,7 +20,7 @@ I did my PhD in NLP from Graduate School in Language Technology, Sweden. Then, a
 - [Educational NLP](https://aclanthology.org/W18-0515/) Experiments with Universal CEFR Classification
 - [Dialect identification](https://aclanthology.org/W17-1203/) Computational analysis of Gondi dialects
 - [Telugu Universal Dependencies Treebank](https://aclanthology.org/W17-7616/) based on a grammarbook.
-- [Dravidian Wordlists](https://github.com/lexibank/dravidianbasicvocabulary) collected basic word lists for most of the world's language families.
+- [Dravidian Wordlists](https://github.com/lexibank/dravidianbasicvocabulary) collected basic word lists for most of the Dravidian family.
 - [Linguistic Survey of India Digitization](https://lsi.clld.org/)
 - [Language Family Homeland Simulation for comparing BayesTraits methods](https://royalsocietypublishing.org/rstb/article/376/1824/20200202/31494/Testing-methods-of-linguistic-homeland-detection)
 - [Bayesian dating of worlds' language families](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0236522)
