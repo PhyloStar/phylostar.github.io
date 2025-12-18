@@ -11,6 +11,7 @@ I did my PhD in NLP from Graduate School in Language Technology, Sweden. Then, a
 
 ## Research Themes
 - [SemEval Shared Tasks in NLP](https://aclanthology.org/S18-1004/)
+- [Synthetic data for annotation and extraction of family history information from clinical text](https://pubmed.ncbi.nlm.nih.gov/34261535/)
 - [Language Identification with N-grams](https://aclanthology.org/W17-1218/)
 - [Computational historical linguistics and phylogenetics](https://aclanthology.org/2024.sigtyp-1.11/)
 - [Cognate Identification](https://aclanthology.org/P19-1627/)
