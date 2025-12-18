@@ -17,8 +17,8 @@ I did my PhD in NLP from Graduate School in Language Technology, Sweden. Then, a
 - [Cognate Identification](https://aclanthology.org/K18-1027/) Chinese Restaurant Process for Cognate Identification
 - [Dialectology and historical phonology](https://aclanthology.org/2020.conll-1.50/) Disentangling dialects: a neural approach to Indo-Aryan historical phonology and subgrouping
 - [Cross-lingual representation learning](https://aclanthology.org/2020.coling-main.105/) Probing Multilingual BERT for Genetic and Typological Signals
-- [Educational NLP](https://aclanthology.org/W18-0515/)Experiments with Universal CEFR Classification
-- [Dialect identification](https://aclanthology.org/W17-1203/)Computational analysis of Gondi dialects
+- [Educational NLP](https://aclanthology.org/W18-0515/) Experiments with Universal CEFR Classification
+- [Dialect identification](https://aclanthology.org/W17-1203/) Computational analysis of Gondi dialects
 - [Telugu Universal Dependencies Treebank](https://aclanthology.org/W17-7616/) based on a grammarbook.
 - [Dravidian Wordlists](https://github.com/lexibank/dravidianbasicvocabulary) collected basic word lists for most of the world's language families.
 - [Linguistic Survey of India Digitization](https://lsi.clld.org/)
