@@ -10,7 +10,7 @@ I did my PhD in NLP from Graduate School in Language Technology, Sweden. Then, a
 - [**DBLP**](https://dblp.org/pid/45/8159.html)
 
 ## Research Themes
-- [SemEval Shared Tasks in NLP](https://aclanthology.org/S18-1004/)
+- [SemEval Shared Tasks in NLP](https://aclanthology.org/S18-1004/),(https://aclanthology.org/W17-1218/)
 - [Computational historical linguistics and phylogenetics](https://aclanthology.org/2024.sigtyp-1.11/)
 - [Cognate Identification](https://aclanthology.org/P19-1627/)
 - [Dialectology and historical phonology](https://aclanthology.org/2020.conll-1.50/)
@@ -19,5 +19,6 @@ I did my PhD in NLP from Graduate School in Language Technology, Sweden. Then, a
 - [Educational NLP](https://aclanthology.org/W18-0515/)
 - [Language and dialect identification](https://aclanthology.org/W17-1203/)
 - [Treebank and linguistic resource creation](https://aclanthology.org/W17-7616/)
-- [Homeland Simulation][https://royalsocietypublishing.org/rstb/article/376/1824/20200202/31494/Testing-methods-of-linguistic-homeland-detection]
-- (Bayesian dating)[https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0236522]
+- [Homeland Simulation](https://royalsocietypublishing.org/rstb/article/376/1824/20200202/31494/Testing-methods-of-linguistic-homeland-detection)
+- [Bayesian dating](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0236522)
+- [Language Complexity Research](https://aclanthology.org/W18-6002/)
