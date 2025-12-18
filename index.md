@@ -10,19 +10,18 @@ I did my PhD in NLP from Graduate School in Language Technology, Sweden. Then, a
 - [**DBLP**](https://dblp.org/pid/45/8159.html)
 
 ## Research Themes
-- [SemEval Shared Tasks in NLP](https://aclanthology.org/S18-1004/)
+- [SemEval Shared Tasks in NLP](https://aclanthology.org/S18-1004/) SVMs perform better than RNNs in Emoji Prediction
 - [Synthetic data for annotation and extraction of family history information from clinical text](https://pubmed.ncbi.nlm.nih.gov/34261535/)
-- [Language Identification with N-grams](https://aclanthology.org/W17-1218/)
-- [Computational historical linguistics and phylogenetics](https://aclanthology.org/2024.sigtyp-1.11/)
-- [Cognate Identification](https://aclanthology.org/P19-1627/)
-- [Dialectology and historical phonology](https://aclanthology.org/2020.conll-1.50/)
-- [Cross-lingual representation learning](https://aclanthology.org/2020.coling-main.105/)
-- [Low-resource NLP](https://aclanthology.org/W17-7616/)
-- [Educational NLP](https://aclanthology.org/W18-0515/)
+- [Language Identification with N-grams](https://aclanthology.org/W17-1218/) SVM vs. RNNs
+- [Computational historical linguistics and phylogenetics](https://aclanthology.org/P19-1627/) An Automated Framework for Fast Cognate Detection and Bayesian Phylogenetic Inference in Computational Historical Linguistics
+- [Cognate Identification](https://aclanthology.org/K18-1027/) Chinese Restaurant Process for Cognate Identification
+- [Dialectology and historical phonology](https://aclanthology.org/2020.conll-1.50/) Disentangling dialects: a neural approach to Indo-Aryan historical phonology and subgrouping
+- [Cross-lingual representation learning](https://aclanthology.org/2020.coling-main.105/) Probing Multilingual BERT for Genetic and Typological Signals
+- [Educational NLP](https://aclanthology.org/W18-0515/)Experiments with Universal CEFR Classification
 - [Dialect identification](https://aclanthology.org/W17-1203/)
-- [Telugu Treebank](https://aclanthology.org/W17-7616/)
+- [Telugu Universal Dependencies Treebank](https://aclanthology.org/W17-7616/)
 - [Dravidian Wordlists](https://github.com/lexibank/dravidianbasicvocabulary)
-- [Linguistic Survey of India](https://lsi.clld.org/)
-- [Homeland Simulation](https://royalsocietypublishing.org/rstb/article/376/1824/20200202/31494/Testing-methods-of-linguistic-homeland-detection)
-- [Bayesian dating](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0236522)
+- [Linguistic Survey of India Digitization](https://lsi.clld.org/)
+- [Homeland Simulation for comparing BayesTraits methods](https://royalsocietypublishing.org/rstb/article/376/1824/20200202/31494/Testing-methods-of-linguistic-homeland-detection)
+- [Bayesian dating of worlds' language families](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0236522)
 - [Language Complexity Research](https://aclanthology.org/W18-6002/)
