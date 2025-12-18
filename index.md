@@ -18,10 +18,10 @@ I did my PhD in NLP from Graduate School in Language Technology, Sweden. Then, a
 - [Dialectology and historical phonology](https://aclanthology.org/2020.conll-1.50/) Disentangling dialects: a neural approach to Indo-Aryan historical phonology and subgrouping
 - [Cross-lingual representation learning](https://aclanthology.org/2020.coling-main.105/) Probing Multilingual BERT for Genetic and Typological Signals
 - [Educational NLP](https://aclanthology.org/W18-0515/)Experiments with Universal CEFR Classification
-- [Dialect identification](https://aclanthology.org/W17-1203/)
-- [Telugu Universal Dependencies Treebank](https://aclanthology.org/W17-7616/)
-- [Dravidian Wordlists](https://github.com/lexibank/dravidianbasicvocabulary)
+- [Dialect identification](https://aclanthology.org/W17-1203/)Computational analysis of Gondi dialects
+- [Telugu Universal Dependencies Treebank](https://aclanthology.org/W17-7616/) based on a grammarbook.
+- [Dravidian Wordlists](https://github.com/lexibank/dravidianbasicvocabulary) collected basic word lists for most of the world's language families.
 - [Linguistic Survey of India Digitization](https://lsi.clld.org/)
-- [Homeland Simulation for comparing BayesTraits methods](https://royalsocietypublishing.org/rstb/article/376/1824/20200202/31494/Testing-methods-of-linguistic-homeland-detection)
+- [Language Family Homeland Simulation for comparing BayesTraits methods](https://royalsocietypublishing.org/rstb/article/376/1824/20200202/31494/Testing-methods-of-linguistic-homeland-detection)
 - [Bayesian dating of worlds' language families](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0236522)
 - [Language Complexity Research](https://aclanthology.org/W18-6002/)
