@@ -2,3 +2,13 @@
 ---
 
 @import "{{ site.theme }}";
+
+side-bar {
+  width: 15%; /* Adjust the percentage as needed (e.g., 10% for a very slim bar) */
+}
+
+/* Ensure the main content area fills the remaining space */
+.main-content {
+  width: 85%; /* 100% - sidebar width */
+  float: right; /* if using floats */
+}
