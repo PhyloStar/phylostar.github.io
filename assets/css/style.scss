@@ -1,11 +1,4 @@
 ---
 ---
-@import "minima";
 
-
-wrapper {
-  max-width: 1200px; /* Adjust this value as desired */
-  width: 90%; /* Use a percentage for responsiveness */
-  margin-left: auto;
-  margin-right: auto;
-}
+@import "{{ site.theme }}";
