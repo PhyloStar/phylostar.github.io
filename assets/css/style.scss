@@ -2,13 +2,9 @@
 ---
 @import "{{ site.theme }}";
 
-.wrapper {
-  max-width: 1600px; /* Or any other width you prefer */
-  margin: 0 auto; /* Keeps the content centered */
-}
-
-section {
-  /* You might also need to adjust the section width if you have a multi-column layout */
-  max-width: 800px;
-  float: right; /* Adjust as per your layout needs */
+wrapper, section {
+  max-width: 1200px; /* Adjust this value as desired */
+  width: 90%; /* Use a percentage for responsiveness */
+  margin-left: auto;
+  margin-right: auto;
 }
