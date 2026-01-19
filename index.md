@@ -2,7 +2,14 @@
 
 I did my PhD in NLP from Graduate School in Language Technology, Sweden. Then, a postdoc with [Gerhard Jaeger](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/chairs/general-linguistics/staff/prof-dr-gerhard-jaeger/) at University of Tuebingen. In Tuebingen, I used to work with [Cagri Coltekin](https://coltekin.net/cagri/) on shared tasks. Then, another postdoc in healthcare at [University of Oslo](https://www.mn.uio.no/ifi/english/research/groups/ltg/) until 2019. Then, I was a faculty for few years at the University of North Texas, Denton, TX. My PhD thesis is [here](https://github.com/PhyloStar/phylostar.github.io/blob/main/taraka_thesis.pdf). I worked with [Soeren Wichmann](https://soerenwichmann.com/) a lot and did exciting work on language change.
 
-## Selected Work
+## Paper database Links
+
+- [**ACL Anthology Profile**](https://aclanthology.org/people/taraka-rama/)
+- [**GitHub**](https://github.com/PhyloStar)
+- [**Google Scholar**](https://scholar.google.no/citations?hl=no&user=pdzW3AEAAAAJ)
+- [**DBLP**](https://dblp.org/pid/45/8159.html)
+
+## Selected Papers
 
 - Brekke PH, Rama T, Pilán I, Nytrø Ø, Øvrelid L. Synthetic data for annotation and extraction of family history information from clinical text. J Biomed Semantics. 2021 Jul 14;12(1):11. doi: 10.1186/s13326-021-00244-2. PMID: 34261535; PMCID: PMC8278746. [pdf](https://pubmed.ncbi.nlm.nih.gov/34261535/)
 - Dahl, Fredrik A., Taraka Rama, Petter Hurlen, Pål H. Brekke, Haldor Husby, Tore Gundersen, Øystein Nytrø, and Lilja Øvrelid. "Neural classification of Norwegian radiology reports: using NLP to detect findings in CT-scans of children." BMC Medical Informatics and Decision Making 21, no. 1 (2021): 84.[pdf](https://pubmed.ncbi.nlm.nih.gov/34261535/)
@@ -21,9 +28,4 @@ I did my PhD in NLP from Graduate School in Language Technology, Sweden. Then, a
 - [Dravidian Wordlists](https://github.com/lexibank/dravidianbasicvocabulary) collected basic word lists for most of the Dravidian family.
 - [Linguistic Survey of India Digitization](https://lsi.clld.org/)
 
-## Paper database Links
 
-- [**ACL Anthology Profile**](https://aclanthology.org/people/taraka-rama/)
-- [**GitHub**](https://github.com/PhyloStar)
-- [**Google Scholar**](https://scholar.google.no/citations?hl=no&user=pdzW3AEAAAAJ)
-- [**DBLP**](https://dblp.org/pid/45/8159.html)
