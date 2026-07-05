@@ -10,6 +10,11 @@ My resume is [here](https://github.com/PhyloStar/phylostar.github.io/blob/main/T
 - [**Google Scholar**](https://scholar.google.no/citations?hl=no&user=pdzW3AEAAAAJ)
 - [**DBLP**](https://dblp.org/pid/45/8159.html)
 
+## Wordlists links
+
+- [Dravidian Wordlists](https://github.com/lexibank/dravidianbasicvocabulary) collected basic word lists for most of the Dravidian family.
+- [Linguistic Survey of India Digitization](https://lsi.clld.org/)
+
 ## Selected Papers
 - Luise Häuser, Gerhard Jäger, Johann-Mattis List, Taraka Rama, and Alexandros Stamatakis. 2024. Are Sounds Sound for Phylogenetic Reconstruction?. In Proceedings of the 6th Workshop on Research in Computational Linguistic Typology and Multilingual NLP, pages 78–87, St. Julian's, Malta. Association for Computational Linguistics.
 - Søren Wichmann, Taraka Rama; Testing methods of linguistic homeland detection using synthetic data. Philos Trans R Soc Lond B Biol Sci 10 May 2021; 376 (1824): 20200202. [pdf](https://royalsocietypublishing.org/rstb/article/376/1824/20200202/31494/Testing-methods-of-linguistic-homeland-detection)
@@ -27,7 +32,3 @@ My resume is [here](https://github.com/PhyloStar/phylostar.github.io/blob/main/T
 - Taraka Rama and Sowmya Vajjala. 2017. A Telugu treebank based on a grammar book. In Proceedings of the 16th International Workshop on Treebanks and Linguistic Theories, pages 119–128, Prague, Czech Republic.[pdf](https://aclanthology.org/W17-7616/)
 - Taraka Rama, Çağrı Çöltekin, and Pavel Sofroniev. 2017. Computational analysis of Gondi dialects. In Proceedings of the Fourth Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial), pages 26–35, Valencia, Spain. Association for Computational Linguistics.[pdf](https://aclanthology.org/W17-1203/)
 - Aleksandrs Berdicevskis, Çağrı Çöltekin, Katharina Ehret, Kilu von Prince, Daniel Ross, Bill Thompson, Chunxiao Yan, Vera Demberg, Gary Lupyan, Taraka Rama, and Christian Bentz. 2018. Using Universal Dependencies in cross-linguistic complexity research. In Proceedings of the Second Workshop on Universal Dependencies (UDW 2018), pages 8–17, Brussels, Belgium. Association for Computational Linguistics.[pdf](https://aclanthology.org/W18-6002/)
-- [Dravidian Wordlists](https://github.com/lexibank/dravidianbasicvocabulary) collected basic word lists for most of the Dravidian family.
-- [Linguistic Survey of India Digitization](https://lsi.clld.org/)
-
-
