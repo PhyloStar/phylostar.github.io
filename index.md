@@ -1,7 +1,7 @@
 ## About me
-I am Taraka Rama K. I did my PhD in NLP from Graduate School in Language Technology, Sweden. Then, a postdoc with [Gerhard Jaeger](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/chairs/general-linguistics/staff/prof-dr-gerhard-jaeger/) at University of Tuebingen, Germany. In Tuebingen, I used to work with [Cagri Coltekin](https://coltekin.net/cagri/) on shared tasks. Then, another postdoc in healthcare at [University of Oslo](https://www.mn.uio.no/ifi/english/research/groups/ltg/) until 2019. Then, I was a faculty for few years at the University of North Texas, Denton, TX. My PhD thesis is [here](https://github.com/PhyloStar/phylostar.github.io/blob/main/taraka_thesis.pdf). I worked with [Soeren Wichmann](https://soerenwichmann.com/) a lot and did exciting work on language change. 
+I am Taraka Rama Kasicheyanula. I did my PhD in NLP from Graduate School in Language Technology, Sweden. Then, a postdoc with [Gerhard Jaeger](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/chairs/general-linguistics/staff/prof-dr-gerhard-jaeger/) at University of Tuebingen, Germany. In Tuebingen, I used to work with [Cagri Coltekin](https://coltekin.net/cagri/) on shared tasks. Then, another postdoc in healthcare at [University of Oslo](https://www.mn.uio.no/ifi/english/research/groups/ltg/) until 2019. Then, I was a faculty for few years at the University of North Texas, Denton, TX. My PhD thesis is [here](https://github.com/PhyloStar/phylostar.github.io/blob/main/taraka_thesis.pdf). I worked with [Soeren Wichmann](https://soerenwichmann.com/) a lot and did exciting work on language change. 
 
-My resume is [here](https://github.com/PhyloStar/phylostar.github.io/blob/main/Taraka_Resume%20(2).pdf)
+My resume is [here](https://github.com/PhyloStar/phylostar.github.io/blob/main/Resume.pdf)
 
 ## Paper database Links
 
