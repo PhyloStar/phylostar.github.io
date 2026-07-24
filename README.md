@@ -1,1 +1,1 @@
-Taraka Rama K. NLP and multilinguality researcher.
+Taraka Rama Kasicheyanula. NLP and multilinguality researcher.
