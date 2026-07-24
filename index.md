@@ -3,6 +3,29 @@ I am Taraka Rama Kasicheyanula. I did my PhD in NLP from Graduate School in Lang
 
 My resume is [here](https://github.com/PhyloStar/phylostar.github.io/blob/main/Resume.pdf)
 
+## Work Experience
+
+- **Walmart Global Tech** (2022–2023)
+- **University of North Texas** (2019–2022)
+- **Post-Doctoral Fellow**, BIGMED project with University of Oslo, Norway (2017–2019)
+- **Post-Doctoral Fellow**, Language Evolution: The Empirical Turn (EVOLAEMP) project (ERC Advanced Grant) with University of Tuebingen, Germany (November 2015–August 2017)
+
+## Education
+
+- **PhD** in NLP: University of Gothenburg, Gothenburg, Sweden
+- **Masters**: IIIT-Hyderabad, Hyderabad, India
+- **Bachelors**: DA-IICT, Gandhinagar, India
+
+## Honors and Awards
+
+- **Ranked first in:**
+  - VarDial 2016, 2017 shared task on dialect classification
+  - SemEval-2018 shared task on multilingual emoji classification
+  - CLPsych-2018 Shared Task on Predicting Current and Future Psychological Health from Childhood Essays
+- **Outstanding Reviewer** for COLING 2018
+- **Seed grant** of $5,000 USD from College of Information, University of North Texas
+- **NVIDIA Academic GPU grant** in 2016 and 2019
+
 ## Paper database Links
 
 - [**ACL Anthology Profile**](https://aclanthology.org/people/taraka-rama/)
